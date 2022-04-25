@@ -1,6 +1,10 @@
 
-# Assignment Instruction!!!!
-1. Create inline script tag `<script type="text/javascript"></script>`
+# Assignment Instruction!!!
+*The aim of this assignment is to help you practice the basic you've learned so far in Javascript. Instead of the `inline` Javascript added to the two buttons, you are to convert the event to internal Javascript.*
+
+*Use the Javascript document model to target the two buttons and make them turn on and turn of the bulb when clicked.*
+
+1. Create intern script tag `<script type="text/javascript"></script>`
 2. Give button 1 `id` of `myBtn1`
 3. Use JavaScript `document` to target `myBtn1` id and store in a const variable called `btn1`
 4. Give the second button id of `myBtn2`
